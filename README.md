@@ -381,10 +381,10 @@ the checksum will no longer match — and netwatch will
 know the baseline itself was tampered with.
 
 
-================================================================
+========================================
        END OF EXPLANATION
        Happy monitoring on Kali Linux!
-================================================================
+=======================================
 
 
 
